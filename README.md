@@ -1,12 +1,19 @@
-# Levi Kassem
+## Levi Kassem — Senior Backend / AI Engineer
 
-Full stack engineer, backend-focused. Python and Node.js, six years. Based in Spain, working remote.
+I build production Python & Node.js backends for data-heavy SaaS — 6+ years across
+embedded analytics, enterprise cloud, and applied LLM/retrieval systems.
+Based in Spain (CET), fully remote. English C1 · Spanish native.
 
-- **[Droppo](https://droppo.com.co)**. Dropshipping automation I built in 2020 and still run alone. LLM listing pipeline, Qdrant categoriser over 10,573 categories.
-- **[Mobiliarisimo](https://mobiliarisimo.com)**. Colombian property listings from several portals on one searchable map. Python Lambdas, API Gateway, CDK.
+**Available now** for remote senior backend or AI/LLM engineering roles at
+startups & scaleups. Not looking for agency work.
 
-Python (Flask, Celery), Node.js, TypeScript, PostgreSQL, ClickHouse, Elasticsearch, Qdrant, RabbitMQ, AWS, Docker, Kubernetes. CKAD and AWS Certified Developer - Associate.
+**Featured work**
+- 🛒 Droppo — dropshipping-automation SaaS I designed & built end-to-end:
+  Celery/RabbitMQ pipelines, Qdrant vector search + OpenAI, Arize Phoenix
+  tracing, MySQL, MercadoLibre & MercadoPago integrations. [live](https://droppo.com.co)
+- 🗺️ Mobiliarisimo — live property-listing aggregator: Python AWS Lambdas,
+  API Gateway, CDK, React + Leaflet. [live](https://mobiliarisimo.com)
 
-Most of what I build is in private repos.
+CKAD · AWS Certified Developer Associate
 
-[LinkedIn](https://linkedin.com/in/levikassem)
+📫 levikaro@gmail.com · [linkedin.com/in/levikassem](https://linkedin.com/in/levikassem)
